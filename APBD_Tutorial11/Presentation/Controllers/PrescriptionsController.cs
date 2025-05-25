@@ -1,9 +1,8 @@
 using APBD_Tutorial11.Application.Commands;
-using APBD_Tutorial11.Domain.Models;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace APBD_Tutorial11.Presentation;
+namespace APBD_Tutorial11.Presentation.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

@@ -2,7 +2,7 @@ using APBD_Tutorial11.Application.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace APBD_Tutorial11.Presentation;
+namespace APBD_Tutorial11.Presentation.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
